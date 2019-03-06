@@ -26,6 +26,7 @@ class MyView5 extends PolymerElement {
         <div class="circle">5</div>
         <h3>Platinum Elements</h3>
 <ul id="menu5">
+    <li><a href="/src/demos/platinum-elements/platinum-sw/demo" target="_blank">platinum-sw</a></li>
     <li><a href="/src/demos/platinum-elements/PACKAGENAME/demo" target="_blank">###</a></li>
 </ul>
       </div>

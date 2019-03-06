@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4938381d-41a2-4f5f-9f56-6bd212102166" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/my-view5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my-view6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my-view7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my-view8.js" afterDir="false" />
+    <list default="true" id="4938381d-41a2-4f5f-9f56-6bd212102166" name="Default Changelist" comment="added elements">
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-indexeddb-mirror/app-indexeddb-mirror-client.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-indexeddb-mirror/app-indexeddb-mirror-client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-indexeddb-mirror/app-indexeddb-mirror-worker.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-indexeddb-mirror/app-indexeddb-mirror-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-indexeddb-mirror/app-indexeddb-mirror.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-indexeddb-mirror/app-indexeddb-mirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-indexeddb-mirror/common-worker-scope.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-indexeddb-mirror/common-worker-scope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-indexeddb-mirror/common-worker.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-indexeddb-mirror/common-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-localstorage/app-localstorage-document.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-localstorage/app-localstorage-document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-network-status-behavior.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-network-status-behavior.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-storage-behavior.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/app-storage-behavior.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demos/data-elements/app-storage/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my-view1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-view1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my-view2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-view2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my-view3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-view3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my-view4.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-view4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demos/data-elements/app-pouchdb/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/demos/data-elements/app-pouchdb/demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my-view5.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-view5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my-view6.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-view6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my-view7.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/my-view7.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,28 +42,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/my-view1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="336">
+              <caret line="40" column="9" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="40" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/my-app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="93" column="57" selection-start-line="93" selection-start-column="57" selection-end-line="93" selection-end-column="57" />
+        <entry file="file://$PROJECT_DIR$/src/demos/data-elements/app-storage/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <folding>
+                  <element signature="e#0#54#0" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -54,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/my-view5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
+            <state relative-caret-position="281">
+              <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
               <folding>
                 <element signature="e#534#609#0" expanded="true" />
               </folding>
@@ -64,10 +77,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demos/platinum-elements/platinum-sw/demo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-414">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/my-view6.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+            <state relative-caret-position="371">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demos/data-elements/app-pouchdb/demo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="41" column="53" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demos/app-elements/app-route/demo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -75,44 +115,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/my-view7.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+            <state relative-caret-position="194">
+              <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/demos/paper-elements/paper-checkbox/.eslintrc.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/my-view8.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/my-view2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/my-view3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/my-view4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="28" column="81" selection-start-line="28" selection-start-column="65" selection-end-line="28" selection-end-column="81" />
+            <state relative-caret-position="99">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#534#609#0" expanded="true" />
               </folding>
@@ -133,10 +151,20 @@
       <find>ğ^</find>
       <find>3</find>
       <find>my-app</find>
+      <find>fetch.js</find>
       <find>4</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/node_modules/@polymer/prism-element</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="er" />
+        <option value="Yunus ER &lt;eryunustr@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -158,12 +186,14 @@
         <option value="$PROJECT_DIR$/src/my-view2.js" />
         <option value="$PROJECT_DIR$/src/my-view3.js" />
         <option value="$PROJECT_DIR$/src/my-view4.js" />
-        <option value="$PROJECT_DIR$/src/my-view1.js" />
         <option value="$PROJECT_DIR$/src/my-app.js" />
-        <option value="$PROJECT_DIR$/src/my-view5.js" />
-        <option value="$PROJECT_DIR$/src/my-view6.js" />
-        <option value="$PROJECT_DIR$/src/my-view7.js" />
         <option value="$PROJECT_DIR$/src/my-view8.js" />
+        <option value="$PROJECT_DIR$/src/my-view5.js" />
+        <option value="$PROJECT_DIR$/src/demos/platinum-elements/platinum-sw/demo/index.html" />
+        <option value="$PROJECT_DIR$/src/my-view1.js" />
+        <option value="$PROJECT_DIR$/src/my-view6.js" />
+        <option value="$PROJECT_DIR$/src/demos/data-elements/app-pouchdb/demo/index.html" />
+        <option value="$PROJECT_DIR$/src/my-view7.js" />
       </list>
     </option>
   </component>
@@ -208,6 +238,21 @@
             <path>
               <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
               <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@polymer" type="462c0819:PsiDirectoryNode" />
+              <item name="neon-animation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@polymer" type="462c0819:PsiDirectoryNode" />
+              <item name="neon-animation" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -220,7 +265,233 @@
               <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
               <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="my-el" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-button" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-card" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-checkbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-dialog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-dialog-behavior" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-dialog-scrollable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-dropdown-menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-fab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-header-panel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-icon-button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-listbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-menu-button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-progress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-radio-button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-radio-group" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-ripple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-scroll-header-panel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-slider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-spinner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-tabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-toast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-toggle-button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-toolbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="polymer-3-starter-kit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="polymer-3-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="paper-tooltip" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,7 +507,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/demos/data-elements" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/demos/data-elements" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -264,7 +539,7 @@
       <option name="presentableId" value="Default" />
       <updated>1551882807828</updated>
       <workItem from="1551882809206" duration="5745000" />
-      <workItem from="1551891266716" duration="1625000" />
+      <workItem from="1551891266716" duration="3520000" />
     </task>
     <task id="LOCAL-00001" summary="readme">
       <created>1551891604081</created>
@@ -273,15 +548,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551891604081</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added elements">
+      <created>1551893210565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551893210565</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7527000" />
+    <option name="totallyTimeSpent" value="9422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2304" y="293" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29386893" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -341,7 +622,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme" />
+    <MESSAGE value="added elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="added elements" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/favicon.ico">
@@ -470,13 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/my-view1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/my-app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
@@ -494,10 +769,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-view8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#534#609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/platinum-elements/platinum-sw/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/data-elements/app-storage/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <folding>
+              <element signature="e#0#54#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/my-view5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
+        <state relative-caret-position="281">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
           <folding>
             <element signature="e#534#609#0" expanded="true" />
           </folding>
@@ -506,24 +810,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/my-view6.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+        <state relative-caret-position="371">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/app-elements/app-route/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/data-elements/app-pouchdb/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="41" column="53" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-view1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="40" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/my-view7.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+        <state relative-caret-position="194">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/my-view8.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/demos/paper-elements/paper-checkbox/.eslintrc.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

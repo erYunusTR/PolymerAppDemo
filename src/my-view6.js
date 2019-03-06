@@ -26,6 +26,10 @@ class MyView6 extends PolymerElement {
         <div class="circle">6</div>
         <h3>Data Elements</h3>
 <ul id="menu6">
+    <li><a href="/src/demos/data-elements/app-storage/demo" target="_blank">app-storage#no-demo</a></li>
+    <li><a href="/src/demos/data-elements/iron-ajax/demo" target="_blank">iron-ajax</a></li>
+    <li><a href="/src/demos/data-elements/iron-jsonp-library/demo" target="_blank">iron-jsonp-library</a></li>
+    <li><a href="/src/demos/data-elements/app-pouchdb/demo" target="_blank">app-pouchdb</a></li>
     <li><a href="/src/demos/data-elements/PACKAGENAME/demo" target="_blank">###</a></li>
 </ul>
       </div>

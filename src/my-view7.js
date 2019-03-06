@@ -26,6 +26,26 @@ class MyView7 extends PolymerElement {
         <div class="circle">7</div>
         <h3>Layout Elements</h3>
 <ul id="menu7">
+    <li><a href="/src/demos/layout-elements/app-layout/demo" target="_blank">app-layout</a></li>
+    <ul>
+    <li><a href="/src/demos/layout-elements/app-layout/app-box/demo" target="_blank">app-box</a></li>
+    <li><a href="/src/demos/layout-elements/app-layout/app-drawer/demo" target="_blank">app-drawer</a></li>
+    <li><a href="/src/demos/layout-elements/app-layout/app-drawer-layout/demo" target="_blank">app-drawer-layout</a></li>
+    <li><a href="/src/demos/layout-elements/app-layout/app-grid/demo" target="_blank">app-grid</a></li>
+    <li><a href="/src/demos/layout-elements/app-layout/app-header/demo" target="_blank">app-header</a></li>
+    <li><a href="/src/demos/layout-elements/app-layout/app-header-layout/demo" target="_blank">app-header-layout</a></li>
+    <li><a href="/src/demos/layout-elements/app-layout/app-layout-behavior/demo" target="_blank">app-layout-behavior#no-demo</a></li>
+    <li><a href="/src/demos/layout-elements/app-layout/app-scroll-effects/demo" target="_blank">app-scroll-effects#no-demo</a></li>
+    <li><a href="/src/demos/layout-elements/app-layout/app-toolbar/demo" target="_blank">app-toolbar</a></li>
+    <li><a href="/src/demos/layout-elements/app-layout/PACKAGENAME/demo" target="_blank">###</a></li>
+    </ul>
+    <li><a href="/src/demos/layout-elements/iron-collapse/demo" target="_blank">iron-collapse</a></li>
+    <li><a href="/src/demos/layout-elements/iron-fit-behavior/demo" target="_blank">iron-fit-behavior</a></li>
+    <li><a href="/src/demos/layout-elements/iron-flex-layout/demo" target="_blank">iron-flex-layout</a></li>
+    <li><a href="/src/demos/layout-elements/iron-list/demo" target="_blank">iron-list</a></li>
+    <li><a href="/src/demos/layout-elements/iron-media-query/demo" target="_blank">iron-media-query</a></li>
+    <li><a href="/src/demos/layout-elements/iron-overlay-behavior/demo" target="_blank">iron-overlay-behavior</a></li>
+    <li><a href="/src/demos/layout-elements/iron-swipeable-container/demo" target="_blank">iron-swipeable-container</a></li>
     <li><a href="/src/demos/layout-elements/PACKAGENAME/demo" target="_blank">###</a></li>
 </ul>
       </div>
