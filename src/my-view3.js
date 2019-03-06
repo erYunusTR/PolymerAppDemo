@@ -26,37 +26,37 @@ class MyView3 extends PolymerElement {
         <div class="circle">3</div>
         <h3>Paper Elements</h3>
 <ul id="menu3">
-    <li><a href="/src/demos/paper-elements/paper-badge/demo">paper-badge</a></li>
-    <li><a href="/src/demos/paper-elements/paper-behaviors/demo">paper-behaviors</a></li>
-    <li><a href="/src/demos/paper-elements/paper-button/demo">paper-button</a></li>
-    <li><a href="/src/demos/paper-elements/paper-card/demo">paper-card</a></li>
-    <li><a href="/src/demos/paper-elements/paper-checkbox/demo">paper-checkbox</a></li>
-    <li><a href="/src/demos/paper-elements/paper-dialog/demo">paper-dialog</a></li>
-    <li><a href="/src/demos/paper-elements/paper-dialog-behavior/demo">paper-dialog-behavior</a></li>
-    <li><a href="/src/demos/paper-elements/paper-dialog-scrollable/demo">paper-dialog-scrollable</a></li>
-    <li><a href="/src/demos/paper-elements/paper-dropdown-menu/demo">paper-dropdown-menu</a></li>
-    <li><a href="/src/demos/paper-elements/paper-fab/demo">paper-fab</a></li>
-    <li><a href="/src/demos/paper-elements/paper-header-panel/demo">paper-header-panel</a></li>
-    <li><a href="/src/demos/paper-elements/paper-icon-button/demo">paper-icon-button</a></li>
-    <li><a href="/src/demos/paper-elements/paper-input/demo">paper-input</a></li>
-    <li><a href="/src/demos/paper-elements/paper-item/demo">paper-item</a></li>
-    <li><a href="/src/demos/paper-elements/paper-listbox/demo">paper-listbox</a></li>
-    <li><a href="/src/demos/paper-elements/paper-menu-button/demo">paper-menu-button</a></li>
-    <li><a href="/src/demos/paper-elements/paper-progress/demo">paper-progress</a></li>
-    <li><a href="/src/demos/paper-elements/paper-radio-button/demo">paper-radio-button</a></li>
-    <li><a href="/src/demos/paper-elements/paper-radio-group/demo">paper-radio-group</a></li>
-    <li><a href="/src/demos/paper-elements/paper-ripple/demo">paper-ripple</a></li>
-    <li><a href="/src/demos/paper-elements/paper-scroll-header-panel/demo">paper-scroll-header-panel</a></li>
-    <li><a href="/src/demos/paper-elements/paper-slider/demo">paper-slider</a></li>
-    <li><a href="/src/demos/paper-elements/paper-spinner/demo">paper-spinner</a></li>
-    <li><a href="/src/demos/paper-elements/paper-styles/demo">paper-styles</a></li>
-    <li><a href="/src/demos/paper-elements/paper-swatch-picker/demo">paper-swatch-picker</a></li>
-    <li><a href="/src/demos/paper-elements/paper-tabs/demo">paper-tabs</a></li>
-    <li><a href="/src/demos/paper-elements/paper-toast/demo">paper-toast</a></li>
-    <li><a href="/src/demos/paper-elements/paper-toggle-button/demo">paper-toggle-button</a></li>
-    <li><a href="/src/demos/paper-elements/paper-toolbar/demo">paper-toolbar</a></li>
-    <li><a href="/src/demos/paper-elements/paper-tooltip/demo">paper-tooltip</a></li>
-    <li><a href="/src/demos/paper-elements/PACKAGENAME/demo">###</a></li>
+    <li><a href="/src/demos/paper-elements/paper-badge/demo" target="_blank">paper-badge</a></li>
+    <li><a href="/src/demos/paper-elements/paper-behaviors/demo" target="_blank">paper-behaviors</a></li>
+    <li><a href="/src/demos/paper-elements/paper-button/demo" target="_blank">paper-button</a></li>
+    <li><a href="/src/demos/paper-elements/paper-card/demo" target="_blank">paper-card</a></li>
+    <li><a href="/src/demos/paper-elements/paper-checkbox/demo" target="_blank">paper-checkbox</a></li>
+    <li><a href="/src/demos/paper-elements/paper-dialog/demo" target="_blank">paper-dialog</a></li>
+    <li><a href="/src/demos/paper-elements/paper-dialog-behavior/demo" target="_blank">paper-dialog-behavior</a></li>
+    <li><a href="/src/demos/paper-elements/paper-dialog-scrollable/demo" target="_blank">paper-dialog-scrollable</a></li>
+    <li><a href="/src/demos/paper-elements/paper-dropdown-menu/demo" target="_blank">paper-dropdown-menu</a></li>
+    <li><a href="/src/demos/paper-elements/paper-fab/demo" target="_blank">paper-fab</a></li>
+    <li><a href="/src/demos/paper-elements/paper-header-panel/demo" target="_blank">paper-header-panel</a></li>
+    <li><a href="/src/demos/paper-elements/paper-icon-button/demo" target="_blank">paper-icon-button</a></li>
+    <li><a href="/src/demos/paper-elements/paper-input/demo" target="_blank">paper-input</a></li>
+    <li><a href="/src/demos/paper-elements/paper-item/demo" target="_blank">paper-item</a></li>
+    <li><a href="/src/demos/paper-elements/paper-listbox/demo" target="_blank">paper-listbox</a></li>
+    <li><a href="/src/demos/paper-elements/paper-menu-button/demo" target="_blank">paper-menu-button</a></li>
+    <li><a href="/src/demos/paper-elements/paper-progress/demo" target="_blank">paper-progress</a></li>
+    <li><a href="/src/demos/paper-elements/paper-radio-button/demo" target="_blank">paper-radio-button</a></li>
+    <li><a href="/src/demos/paper-elements/paper-radio-group/demo" target="_blank">paper-radio-group</a></li>
+    <li><a href="/src/demos/paper-elements/paper-ripple/demo" target="_blank">paper-ripple</a></li>
+    <li><a href="/src/demos/paper-elements/paper-scroll-header-panel/demo" target="_blank">paper-scroll-header-panel</a></li>
+    <li><a href="/src/demos/paper-elements/paper-slider/demo" target="_blank">paper-slider</a></li>
+    <li><a href="/src/demos/paper-elements/paper-spinner/demo" target="_blank">paper-spinner</a></li>
+    <li><a href="/src/demos/paper-elements/paper-styles/demo" target="_blank">paper-styles</a></li>
+    <li><a href="/src/demos/paper-elements/paper-swatch-picker/demo" target="_blank">paper-swatch-picker</a></li>
+    <li><a href="/src/demos/paper-elements/paper-tabs/demo" target="_blank">paper-tabs</a></li>
+    <li><a href="/src/demos/paper-elements/paper-toast/demo" target="_blank">paper-toast</a></li>
+    <li><a href="/src/demos/paper-elements/paper-toggle-button/demo" target="_blank">paper-toggle-button</a></li>
+    <li><a href="/src/demos/paper-elements/paper-toolbar/demo" target="_blank">paper-toolbar</a></li>
+    <li><a href="/src/demos/paper-elements/paper-tooltip/demo" target="_blank">paper-tooltip</a></li>
+    <li><a href="/src/demos/paper-elements/PACKAGENAME/demo" target="_blank">###</a></li>
 </ul>
       </div>
     `;

@@ -26,47 +26,47 @@ class MyView2 extends PolymerElement {
         <div class="circle">2</div>
         <h3>Iron Elements</h3>
 <ul id="menu2">
-    <li><a href="/src/demos/iron-elements/iron-a11y-announcer/demo">iron-a11y-announcer</a></li>
-    <li><a href="/src/demos/iron-elements/iron-a11y-keys/demo">iron-a11y-keys</a></li>
-    <li><a href="/src/demos/iron-elements/iron-a11y-keys-behavior/demo">iron-a11y-keys-behavior</a></li>
-    <li><a href="/src/demos/iron-elements/iron-ajax/demo">iron-ajax</a></li>
-    <li><a href="/src/demos/iron-elements/iron-autogrow-textarea/demo">iron-autogrow-textarea</a></li>
-    <li><a href="/src/demos/iron-elements/iron-behaviors/demo">iron-behaviors</a></li>
-    <li><a href="/src/demos/iron-elements/iron-checked-element-behavior/demo">iron-checked-element-behavior</a></li>
-    <li><a href="/src/demos/iron-elements/iron-collapse/demo">iron-collapse</a></li>
-    <li><a href="/src/demos/iron-elements/iron-component-page/demo">iron-component-page</a></li>
-    <li><a href="/src/demos/iron-elements/iron-demo-helpers/demo">iron-demo-helpers</a></li>
-    <li><a href="/src/demos/iron-elements/iron-doc-viewer/demo">iron-doc-viewer</a></li>
-    <li><a href="/src/demos/iron-elements/iron-dropdown/demo">iron-dropdown</a></li>
-    <li><a href="/src/demos/iron-elements/iron-fit-behavior/demo">iron-fit-behavior</a></li>
-    <li><a href="/src/demos/iron-elements/iron-flex-layout/demo">iron-flex-layout</a></li>
-    <li><a href="/src/demos/iron-elements/iron-form/demo">iron-form</a></li>
-    <li><a href="/src/demos/iron-elements/iron-form-element-behavior/demo">iron-form-element-behavior#no-demo</a></li>
-    <li><a href="/src/demos/iron-elements/iron-icon/demo">iron-icon</a></li>
-    <li><a href="/src/demos/iron-elements/iron-icons/demo">iron-icons</a></li>
-    <li><a href="/src/demos/iron-elements/iron-iconset/demo">iron-iconset</a></li>
-    <li><a href="/src/demos/iron-elements/iron-iconset-svg/demo">iron-iconset-svg</a></li>
-    <li><a href="/src/demos/iron-elements/iron-image/demo">iron-image</a></li>
-    <li><a href="/src/demos/iron-elements/iron-input/demo">iron-input</a></li>
-    <li><a href="/src/demos/iron-elements/iron-jsonp-library/demo">iron-jsonp-library</a></li>
-    <li><a href="/src/demos/iron-elements/iron-label/demo">iron-label</a></li>
-    <li><a href="/src/demos/iron-elements/iron-list/demo">iron-list</a></li>
-    <li><a href="/src/demos/iron-elements/iron-location/demo">iron-location</a></li>
-    <li><a href="/src/demos/iron-elements/iron-media-query/demo">iron-media-query</a></li>
-    <li><a href="/src/demos/iron-elements/iron-menu-behavior/demo">iron-menu-behavior</a></li>
-    <li><a href="/src/demos/iron-elements/iron-meta/demo">iron-meta</a></li>
-    <li><a href="/src/demos/iron-elements/iron-overlay-behavior/demo">iron-overlay-behavior</a></li>
-    <li><a href="/src/demos/iron-elements/iron-pages/demo">iron-pages</a></li>
-    <li><a href="/src/demos/iron-elements/iron-range-behavior/demo">iron-range-behavior</a></li>
-    <li><a href="/src/demos/iron-elements/iron-resizable-behavior/demo">iron-resizable-behavior</a></li>
-    <li><a href="/src/demos/iron-elements/iron-scroll-target-behavior/demo">iron-scroll-target-behavior</a></li>
-    <li><a href="/src/demos/iron-elements/iron-scroll-threshold/demo">iron-scroll-threshold</a></li>
-    <li><a href="/src/demos/iron-elements/iron-selector/demo">iron-selector</a></li>
-    <li><a href="/src/demos/iron-elements/iron-swipeable-container/demo">iron-swipeable-container</a></li>
-    <li><a href="/src/demos/iron-elements/iron-test-helpers/demo">iron-test-helpers#no-demo</a></li>
-    <li><a href="/src/demos/iron-elements/iron-validatable-behavior/demo">iron-validatable-behavior</a></li>
-    <li><a href="/src/demos/iron-elements/iron-validator-behavior/demo">iron-validator-behavior</a></li>
-    <li><a href="/src/demos/iron-elements/PACKAGENAME/demo">###</a></li>
+    <li><a href="/src/demos/iron-elements/iron-a11y-announcer/demo" target="_blank">iron-a11y-announcer</a></li>
+    <li><a href="/src/demos/iron-elements/iron-a11y-keys/demo" target="_blank">iron-a11y-keys</a></li>
+    <li><a href="/src/demos/iron-elements/iron-a11y-keys-behavior/demo" target="_blank">iron-a11y-keys-behavior</a></li>
+    <li><a href="/src/demos/iron-elements/iron-ajax/demo" target="_blank">iron-ajax</a></li>
+    <li><a href="/src/demos/iron-elements/iron-autogrow-textarea/demo" target="_blank">iron-autogrow-textarea</a></li>
+    <li><a href="/src/demos/iron-elements/iron-behaviors/demo" target="_blank">iron-behaviors</a></li>
+    <li><a href="/src/demos/iron-elements/iron-checked-element-behavior/demo" target="_blank">iron-checked-element-behavior</a></li>
+    <li><a href="/src/demos/iron-elements/iron-collapse/demo" target="_blank">iron-collapse</a></li>
+    <li><a href="/src/demos/iron-elements/iron-component-page/demo" target="_blank">iron-component-page</a></li>
+    <li><a href="/src/demos/iron-elements/iron-demo-helpers/demo" target="_blank">iron-demo-helpers</a></li>
+    <li><a href="/src/demos/iron-elements/iron-doc-viewer/demo" target="_blank">iron-doc-viewer</a></li>
+    <li><a href="/src/demos/iron-elements/iron-dropdown/demo" target="_blank">iron-dropdown</a></li>
+    <li><a href="/src/demos/iron-elements/iron-fit-behavior/demo" target="_blank">iron-fit-behavior</a></li>
+    <li><a href="/src/demos/iron-elements/iron-flex-layout/demo" target="_blank">iron-flex-layout</a></li>
+    <li><a href="/src/demos/iron-elements/iron-form/demo" target="_blank">iron-form</a></li>
+    <li><a href="/src/demos/iron-elements/iron-form-element-behavior/demo" target="_blank">iron-form-element-behavior#no-demo</a></li>
+    <li><a href="/src/demos/iron-elements/iron-icon/demo" target="_blank">iron-icon</a></li>
+    <li><a href="/src/demos/iron-elements/iron-icons/demo" target="_blank">iron-icons</a></li>
+    <li><a href="/src/demos/iron-elements/iron-iconset/demo" target="_blank">iron-iconset</a></li>
+    <li><a href="/src/demos/iron-elements/iron-iconset-svg/demo" target="_blank">iron-iconset-svg</a></li>
+    <li><a href="/src/demos/iron-elements/iron-image/demo" target="_blank">iron-image</a></li>
+    <li><a href="/src/demos/iron-elements/iron-input/demo" target="_blank">iron-input</a></li>
+    <li><a href="/src/demos/iron-elements/iron-jsonp-library/demo" target="_blank">iron-jsonp-library</a></li>
+    <li><a href="/src/demos/iron-elements/iron-label/demo" target="_blank">iron-label</a></li>
+    <li><a href="/src/demos/iron-elements/iron-list/demo" target="_blank">iron-list</a></li>
+    <li><a href="/src/demos/iron-elements/iron-location/demo" target="_blank">iron-location</a></li>
+    <li><a href="/src/demos/iron-elements/iron-media-query/demo" target="_blank">iron-media-query</a></li>
+    <li><a href="/src/demos/iron-elements/iron-menu-behavior/demo" target="_blank">iron-menu-behavior</a></li>
+    <li><a href="/src/demos/iron-elements/iron-meta/demo" target="_blank">iron-meta</a></li>
+    <li><a href="/src/demos/iron-elements/iron-overlay-behavior/demo" target="_blank">iron-overlay-behavior</a></li>
+    <li><a href="/src/demos/iron-elements/iron-pages/demo" target="_blank">iron-pages</a></li>
+    <li><a href="/src/demos/iron-elements/iron-range-behavior/demo" target="_blank">iron-range-behavior</a></li>
+    <li><a href="/src/demos/iron-elements/iron-resizable-behavior/demo" target="_blank">iron-resizable-behavior</a></li>
+    <li><a href="/src/demos/iron-elements/iron-scroll-target-behavior/demo" target="_blank">iron-scroll-target-behavior</a></li>
+    <li><a href="/src/demos/iron-elements/iron-scroll-threshold/demo" target="_blank">iron-scroll-threshold</a></li>
+    <li><a href="/src/demos/iron-elements/iron-selector/demo" target="_blank">iron-selector</a></li>
+    <li><a href="/src/demos/iron-elements/iron-swipeable-container/demo" target="_blank">iron-swipeable-container</a></li>
+    <li><a href="/src/demos/iron-elements/iron-test-helpers/demo" target="_blank">iron-test-helpers#no-demo</a></li>
+    <li><a href="/src/demos/iron-elements/iron-validatable-behavior/demo" target="_blank">iron-validatable-behavior</a></li>
+    <li><a href="/src/demos/iron-elements/iron-validator-behavior/demo" target="_blank">iron-validator-behavior</a></li>
+    <li><a href="/src/demos/iron-elements/PACKAGENAME/demo" target="_blank">###</a></li>
 </ul>
       </div>
     `;

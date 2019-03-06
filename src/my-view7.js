@@ -11,7 +11,7 @@
 import { PolymerElement, html } from '@polymer/polymer/polymer-element.js';
 import './shared-styles.js';
 
-class MyView4 extends PolymerElement {
+class MyView7 extends PolymerElement {
     static get template() {
         return html`
       <style include="shared-styles">
@@ -23,18 +23,14 @@ class MyView4 extends PolymerElement {
       </style>
 
       <div class="card">
-        <div class="circle">4</div>
-        <h3>Gold Elements</h3>
-<ul id="menu4">
-    <li><a href="/src/demos/gold-elements/gold-cc-cvc-input/demo" target="_blank">gold-cc-cvc-input</a></li>
-    <li><a href="/src/demos/gold-elements/gold-cc-expiration-input/demo" target="_blank">gold-cc-expiration-input</a></li>
-    <li><a href="/src/demos/gold-elements/gold-cc-input/demo" target="_blank">gold-cc-input</a></li>
-    <li><a href="/src/demos/gold-elements/gold-phone-input/demo" target="_blank">gold-phone-input</a></li>
-    <li><a href="/src/demos/gold-elements/">###</a></li>
+        <div class="circle">7</div>
+        <h3>Layout Elements</h3>
+<ul id="menu7">
+    <li><a href="/src/demos/layout-elements/PACKAGENAME/demo" target="_blank">###</a></li>
 </ul>
       </div>
     `;
     }
 }
 
-window.customElements.define('my-view4', MyView4);
+window.customElements.define('my-view7', MyView7);
