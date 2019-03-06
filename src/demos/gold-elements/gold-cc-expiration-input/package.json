@@ -1,0 +1,74 @@
+{
+  "_from": "@polymer/gold-cc-expiration-input",
+  "_id": "@polymer/gold-cc-expiration-input@3.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-TNVCsXlhjePewUP5k0JyvXIrqA3fqhXEXSC5P5UuRd1LLypwrIc+rbrPAa1dwjkBna47sawithkRuynUvJ1Tvg==",
+  "_location": "/@polymer/gold-cc-expiration-input",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@polymer/gold-cc-expiration-input",
+    "name": "@polymer/gold-cc-expiration-input",
+    "escapedName": "@polymer%2fgold-cc-expiration-input",
+    "scope": "@polymer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@polymer/gold-cc-expiration-input/-/gold-cc-expiration-input-3.0.1.tgz",
+  "_shasum": "be957f46e459342e54931d181de07cab9a43cd7a",
+  "_spec": "@polymer/gold-cc-expiration-input",
+  "_where": "/Users/YER/WebstormProjects/app",
+  "author": {
+    "name": "The Polymer Authors"
+  },
+  "bugs": {
+    "url": "https://github.com/PolymerElements/gold-cc-expiration-input/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/iron-a11y-keys-behavior": "^3.0.0-pre.26",
+    "@polymer/iron-flex-layout": "^3.0.0-pre.26",
+    "@polymer/iron-form-element-behavior": "^3.0.0-pre.26",
+    "@polymer/iron-validatable-behavior": "^3.0.0-pre.26",
+    "@polymer/iron-validator-behavior": "^3.0.0-pre.26",
+    "@polymer/paper-input": "^3.0.0-pre.26",
+    "@polymer/paper-styles": "^3.0.0-pre.26",
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "A validating input for a credit card expiration date",
+  "devDependencies": {
+    "@polymer/gen-typescript-declarations": "^1.5.1",
+    "@polymer/iron-test-helpers": "^3.0.0-pre.26",
+    "@polymer/test-fixture": "^4.0.1",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.1",
+    "webmat": "^0.2.0"
+  },
+  "homepage": "https://github.com/PolymerElements/gold-cc-expiration-input",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "gold",
+    "input"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "gold-cc-expiration-input.js",
+  "name": "@polymer/gold-cc-expiration-input",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/gold-cc-expiration-input.git"
+  },
+  "scripts": {
+    "format": "webmat",
+    "generate-types": "gen-typescript-declarations --deleteExisting --outDir . --verify",
+    "prepare": "npm run generate-types"
+  },
+  "version": "3.0.1"
+}

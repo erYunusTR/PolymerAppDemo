@@ -1,0 +1,72 @@
+{
+  "_from": "@polymer/gold-cc-cvc-input",
+  "_id": "@polymer/gold-cc-cvc-input@3.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-s6xMdCbYi5PAWwoJDed+WoOk7m4wi/3KBx1I1Alk5ERtuUtHHCCytX0Ka0nSsO83fL0ajRYsrZI7bi/qyOKZfw==",
+  "_location": "/@polymer/gold-cc-cvc-input",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@polymer/gold-cc-cvc-input",
+    "name": "@polymer/gold-cc-cvc-input",
+    "escapedName": "@polymer%2fgold-cc-cvc-input",
+    "scope": "@polymer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@polymer/gold-cc-cvc-input/-/gold-cc-cvc-input-3.0.2.tgz",
+  "_shasum": "7c814cf7cc5a2a6f14d195d2caf611701920888d",
+  "_spec": "@polymer/gold-cc-cvc-input",
+  "_where": "/Users/YER/WebstormProjects/app",
+  "author": {
+    "name": "The Polymer Authors"
+  },
+  "bugs": {
+    "url": "https://github.com/PolymerElements/gold-cc-cvc-input/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/iron-flex-layout": "^3.0.0-pre.26",
+    "@polymer/iron-form-element-behavior": "^3.0.0-pre.26",
+    "@polymer/iron-icon": "^3.0.0-pre.26",
+    "@polymer/paper-input": "^3.0.0-pre.26",
+    "@polymer/paper-styles": "^3.0.0-pre.26",
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "Provides an input field for a credit card cvc number",
+  "devDependencies": {
+    "@polymer/gen-typescript-declarations": "^1.5.1",
+    "@polymer/iron-test-helpers": "^3.0.0-pre.26",
+    "@polymer/test-fixture": "^4.0.1",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.1",
+    "webmat": "^0.2.2"
+  },
+  "homepage": "https://github.com/PolymerElements/gold-cc-cvc-input",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "gold",
+    "input"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "gold-cc-cvc-input.js",
+  "name": "@polymer/gold-cc-cvc-input",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/gold-cc-cvc-input.git"
+  },
+  "scripts": {
+    "format": "webmat",
+    "generate-types": "gen-typescript-declarations --deleteExisting --outDir . --verify",
+    "prepare": "npm run generate-types"
+  },
+  "version": "3.0.2"
+}

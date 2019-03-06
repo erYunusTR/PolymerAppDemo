@@ -1,0 +1,72 @@
+{
+  "_from": "@polymer/gold-phone-input",
+  "_id": "@polymer/gold-phone-input@3.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-2b5LRpxpXnWI2Oh7AH3v71HMlKNJRmSoChnOfsKCUmwfWQin7xhY+tuAsNqbGsexw3f3TkLrmMQ+otUfSGX4cg==",
+  "_location": "/@polymer/gold-phone-input",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@polymer/gold-phone-input",
+    "name": "@polymer/gold-phone-input",
+    "escapedName": "@polymer%2fgold-phone-input",
+    "scope": "@polymer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@polymer/gold-phone-input/-/gold-phone-input-3.0.1.tgz",
+  "_shasum": "ccebaf56abe4de97aa018bd1c6f0256bead95ea0",
+  "_spec": "@polymer/gold-phone-input",
+  "_where": "/Users/YER/WebstormProjects/app",
+  "author": {
+    "name": "The Polymer Authors"
+  },
+  "bugs": {
+    "url": "https://github.com/PolymerElements/gold-phone-input/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/iron-flex-layout": "^3.0.0-pre.26",
+    "@polymer/iron-form-element-behavior": "^3.0.0-pre.26",
+    "@polymer/iron-input": "^3.0.0-pre.26",
+    "@polymer/paper-input": "^3.0.0-pre.26",
+    "@polymer/paper-styles": "^3.0.0-pre.26",
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "A validating input for a phone number",
+  "devDependencies": {
+    "@polymer/gen-typescript-declarations": "^1.5.1",
+    "@polymer/iron-test-helpers": "^3.0.0-pre.26",
+    "@polymer/test-fixture": "^4.0.1",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.1",
+    "webmat": "^0.2.0"
+  },
+  "homepage": "https://github.com/PolymerElements/gold-phone-input",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "gold",
+    "input"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "gold-phone-input.js",
+  "name": "@polymer/gold-phone-input",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/gold-phone-input.git"
+  },
+  "scripts": {
+    "format": "webmat",
+    "generate-types": "gen-typescript-declarations --deleteExisting --outDir . --verify",
+    "prepare": "npm run generate-types"
+  },
+  "version": "3.0.1"
+}

@@ -1,0 +1,72 @@
+{
+  "_from": "@polymer/gold-cc-input",
+  "_id": "@polymer/gold-cc-input@3.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-O5Jl/5L/4nGTJaNp8YDSh3eguNlTGW1KhGxab6kMP9piFMC1LplXBSSqN4l6EbYHsitjcKqizeQP+vwP5V5sOg==",
+  "_location": "/@polymer/gold-cc-input",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@polymer/gold-cc-input",
+    "name": "@polymer/gold-cc-input",
+    "escapedName": "@polymer%2fgold-cc-input",
+    "scope": "@polymer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@polymer/gold-cc-input/-/gold-cc-input-3.0.1.tgz",
+  "_shasum": "12fc72892d193a427809a53642ccd68ba3585a23",
+  "_spec": "@polymer/gold-cc-input",
+  "_where": "/Users/YER/WebstormProjects/app",
+  "author": {
+    "name": "The Polymer Authors"
+  },
+  "bugs": {
+    "url": "https://github.com/PolymerElements/gold-cc-input/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/iron-flex-layout": "^3.0.0-pre.26",
+    "@polymer/iron-form-element-behavior": "^3.0.0-pre.26",
+    "@polymer/iron-icon": "^3.0.0-pre.26",
+    "@polymer/iron-validator-behavior": "^3.0.0-pre.26",
+    "@polymer/paper-input": "^3.0.0-pre.26",
+    "@polymer/paper-styles": "^3.0.0-pre.26",
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "A credit card input field",
+  "devDependencies": {
+    "@polymer/gen-typescript-declarations": "^1.5.1",
+    "@polymer/iron-test-helpers": "^3.0.0-pre.26",
+    "@polymer/test-fixture": "^4.0.1",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.1",
+    "webmat": "^0.2.0"
+  },
+  "homepage": "https://github.com/PolymerElements/gold-cc-input",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "input"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "gold-cc-input.js",
+  "name": "@polymer/gold-cc-input",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/gold-cc-input.git"
+  },
+  "scripts": {
+    "format": "webmat",
+    "generate-types": "gen-typescript-declarations --deleteExisting --outDir . --verify",
+    "prepare": "npm run generate-types"
+  },
+  "version": "3.0.1"
+}

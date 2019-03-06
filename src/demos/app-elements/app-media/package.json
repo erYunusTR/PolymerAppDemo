@@ -1,0 +1,73 @@
+{
+  "_from": "@polymer/app-media",
+  "_id": "@polymer/app-media@3.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-G58tmppojxO9mPrm9iB+UTvewbkwbGN4AlC3qo9vimoCpbPnF8dui5ZO0YPIX0ibQXi+1wM3/EEcr4UtNlv91w==",
+  "_location": "/@polymer/app-media",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@polymer/app-media",
+    "name": "@polymer/app-media",
+    "escapedName": "@polymer%2fapp-media",
+    "scope": "@polymer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@polymer/app-media/-/app-media-3.0.1.tgz",
+  "_shasum": "d8dd9328e26e82ee48a928777df9c135595ddd1a",
+  "_spec": "@polymer/app-media",
+  "_where": "/Users/YER/WebstormProjects/app",
+  "author": {
+    "name": "The Polymer Authors"
+  },
+  "bugs": {
+    "url": "https://github.com/PolymerElements/app-media/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/iron-resizable-behavior": "^3.0.0-pre.26",
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "Elements for accessing data from media input devices",
+  "devDependencies": {
+    "@polymer/gen-typescript-declarations": "^1.5.1",
+    "@polymer/test-fixture": "^4.0.1",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "image-capture": "^0.3.0",
+    "wct-browser-legacy": "^1.0.1",
+    "webmat": "^0.2.2",
+    "webrtc-adapter": "^3.0.0"
+  },
+  "homepage": "https://github.com/PolymerElements/app-media",
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "app",
+    "user",
+    "media",
+    "stream",
+    "camera",
+    "audio",
+    "video"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "app-media.js",
+  "name": "@polymer/app-media",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/app-media.git"
+  },
+  "scripts": {
+    "format": "webmat"
+  },
+  "version": "3.0.1"
+}

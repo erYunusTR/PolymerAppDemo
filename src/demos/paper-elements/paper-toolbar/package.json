@@ -1,0 +1,71 @@
+{
+  "_from": "github:PolymerElements/paper-toolbar",
+  "_id": "@polymer/paper-toolbar@3.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/@polymer/paper-toolbar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "@polymer/paper-toolbar@github:PolymerElements/paper-toolbar",
+    "name": "@polymer/paper-toolbar",
+    "escapedName": "@polymer%2fpaper-toolbar",
+    "scope": "@polymer",
+    "rawSpec": "github:PolymerElements/paper-toolbar",
+    "saveSpec": "github:PolymerElements/paper-toolbar",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:PolymerElements/paper-toolbar#11211e0db3f4ee964caed7e52ba1995567659710",
+  "_spec": "@polymer/paper-toolbar@github:PolymerElements/paper-toolbar",
+  "_where": "/Users/YER/WebstormProjects/app",
+  "author": {
+    "name": "The Polymer Authors"
+  },
+  "bugs": {
+    "url": "https://github.com/PolymerElements/paper-toolbar/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@polymer/iron-flex-layout": "^3.0.0-pre.26",
+    "@polymer/paper-styles": "^3.0.0-pre.26",
+    "@polymer/polymer": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "A material design toolbar that is easily customizable",
+  "devDependencies": {
+    "@polymer/gen-typescript-declarations": "^1.5.1",
+    "@polymer/iron-demo-helpers": "^3.0.1",
+    "@polymer/iron-icons": "^3.0.0-pre.26",
+    "@polymer/paper-icon-button": "^3.0.0-pre.26",
+    "@polymer/paper-progress": "^3.0.0-pre.26",
+    "@polymer/test-fixture": "^4.0.1",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.1",
+    "webmat": "^0.2.0"
+  },
+  "homepage": "https://github.com/PolymerElements/paper-toolbar#readme",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "toolbar",
+    "layout"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "paper-toolbar.js",
+  "name": "@polymer/paper-toolbar",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/paper-toolbar.git"
+  },
+  "scripts": {
+    "format": "webmat",
+    "generate-types": "gen-typescript-declarations --deleteExisting --outDir . --verify",
+    "prepare": "npm run generate-types"
+  },
+  "version": "3.0.1"
+}
