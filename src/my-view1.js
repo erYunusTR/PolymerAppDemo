@@ -8,7 +8,7 @@
  * subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
  */
 
-import {PolymerElement, html} from '@polymer/polymer/polymer-element.js';
+import {html, PolymerElement} from '@polymer/polymer/polymer-element.js';
 import './shared-styles.js';
 
 class MyView1 extends PolymerElement {
@@ -48,6 +48,21 @@ class MyView1 extends PolymerElement {
       </div>
     `;
     }
+
+
+    static get properties() {
+        return {
+            title: {
+                type: String,
+                value: 'App Elements',
+            }
+        };
+    }
+
+    constructor() {
+        super();
+    }
+
 }
 
 window.customElements.define('my-view1', MyView1);

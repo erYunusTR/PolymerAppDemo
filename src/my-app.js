@@ -166,27 +166,36 @@ class MyApp extends PolymerElement {
         switch (page) {
             case 'view1':
                 import('./my-view1.js');
+                console.log("my-view1 loaded");
+                document.title="App Elements - All Polymer Elements - DemoApp";
                 break;
             case 'view2':
                 import('./my-view2.js');
+                document.title="Iron Elements - All Polymer Elements - DemoApp";
                 break;
             case 'view3':
                 import('./my-view3.js');
+                document.title="Paper Elements - All Polymer Elements - DemoApp";
                 break;
             case 'view4':
                 import('./my-view4.js');
+                document.title="Gold Elements - All Polymer Elements - DemoApp";
                 break;
             case 'view5':
                 import('./my-view5.js');
+                document.title="Platinum Elements - All Polymer Elements - DemoApp";
                 break;
             case 'view6':
                 import('./my-view6.js');
+                document.title="Data Elements - All Polymer Elements - DemoApp";
                 break;
             case 'view7':
                 import('./my-view7.js');
+                document.title="Layout Elements - All Polymer Elements - DemoApp";
                 break;
             case 'view8':
                 import('./my-view8.js');
+                document.title="Neon Elements - All Polymer Elements - DemoApp";
                 break;
             case 'view404':
                 import('./my-view404.js');

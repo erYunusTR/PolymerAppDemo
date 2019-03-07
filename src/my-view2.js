@@ -8,12 +8,12 @@
  * subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
  */
 
-import { PolymerElement, html } from '@polymer/polymer/polymer-element.js';
+import {PolymerElement, html} from '@polymer/polymer/polymer-element.js';
 import './shared-styles.js';
 
 class MyView2 extends PolymerElement {
-  static get template() {
-    return html`
+    static get template() {
+        return html`
       <style include="shared-styles">
         :host {
           display: block;
@@ -70,7 +70,7 @@ class MyView2 extends PolymerElement {
 </ul>
       </div>
     `;
-  }
+    }
 }
 
 window.customElements.define('my-view2', MyView2);
