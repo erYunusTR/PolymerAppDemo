@@ -166,7 +166,6 @@ class MyApp extends PolymerElement {
         switch (page) {
             case 'view1':
                 import('./my-view1.js');
-                console.log("my-view1 loaded");
                 document.title="App Elements - All Polymer Elements - DemoApp";
                 break;
             case 'view2':
