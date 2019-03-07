@@ -46,6 +46,8 @@ class MyView7 extends PolymerElement {
     <li><a href="/src/demos/layout-elements/iron-media-query/demo" target="_blank">iron-media-query</a></li>
     <li><a href="/src/demos/layout-elements/iron-overlay-behavior/demo" target="_blank">iron-overlay-behavior</a></li>
     <li><a href="/src/demos/layout-elements/iron-swipeable-container/demo" target="_blank">iron-swipeable-container</a></li>
+    <li><a href="/src/demos/layout-elements/font-roboto-local/demo" target="_blank">font-roboto-local</a></li>
+    <li><a href="/src/demos/layout-elements/prism-element/demo" target="_blank">prism-element</a></li>
     <li><a href="/src/demos/layout-elements/PACKAGENAME/demo" target="_blank">###</a></li>
 </ul>
       </div>
